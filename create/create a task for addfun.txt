@@ -1,0 +1,9 @@
+create a task for addfun
+similarly for 8 task
+
+jshell
+java.lang.class
+string using jshell
+all stirng class method
+daily contribution on git hub
+	
