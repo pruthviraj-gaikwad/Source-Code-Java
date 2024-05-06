@@ -1,7 +1,0 @@
-genrate random no. in array fun
-each no. contain 7 digit
-array size 10L
-prime no. count 
-non prime no. count
-
-
